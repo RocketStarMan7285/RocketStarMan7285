@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! / ¡Hola! / こんにちは!👋
 
 <!--
 **RocketStarMan7285/RocketStarMan7285** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
