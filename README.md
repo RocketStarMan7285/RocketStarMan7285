@@ -2,6 +2,10 @@
 ## About me 
 I'm actively seeking an entry-level full-time position that aligns with my interests in software engineering, web development, and data science!  
 Available to work onsite in the Tampa, Florida area or remotely!
+In the meantime, I would like to offer my services as a freelance:
+  - Programming tutor
+  - Software Developer
+  - Web Developer
 
 ## My Credentials
 Bachelor of Science, Computer Science, University of South Florida, 2024
