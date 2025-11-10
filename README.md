@@ -21,7 +21,7 @@ Bachelor of Science, Computer Science, University of South Florida, 2024
   - **Environments:** Linux CLI, Visual Studio Code IDE, Eclipse IDE, Relational Databases
 
 ## Currently Reviewing / Learning
-  - **Web Development:** HTML, CSS, Javascript, Django, Node.js, PHP
+  - **Web Development:** HTML, CSS, Javascript, Django, Node.js, PHP, React
   - **Data Analytics:** R, Tableau, Pandas
   - **Programming Languages:** C#, Kotlin
 
