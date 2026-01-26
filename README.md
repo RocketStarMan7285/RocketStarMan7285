@@ -1,4 +1,5 @@
 # Hello there! / ¡Hola! / こんにちは!👋
+(Last README update: 1/25/26)
 ## About me 
 I'm actively seeking a full-time tech position that aligns with my interests in software engineering, web development, and data science!  
 Available to work onsite in the Tampa, Florida area or remotely!
