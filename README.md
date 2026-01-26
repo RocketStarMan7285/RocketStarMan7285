@@ -11,7 +11,7 @@ In my downtime, I would like to offer my services as a freelance:
 Please visit my Fiverr account in the links section of my profile if my services pique your interests!
 
 ## My Credentials
-Bachelor of Science, Computer Science, University of South Florida, 2024
+  - Bachelor of Science, Computer Science, University of South Florida, 2024
 
 ## Current Skills
   - **Programming Languages:** Python, Java, C, C++, SQL
