@@ -11,13 +11,14 @@ In my downtime, I would like to offer my services as a freelance:
 
 Please visit my Fiverr account in the links section of my profile if my services pique your interests!
 
-## My Credentials
+## My Credentials and Qualifications
   - Bachelor of Science, Computer Science, University of South Florida, 2024
+  - U. S. Citizen
 
 ## Current Skills
   - **Programming Languages:** Python, Java, C, C++, SQL
   - **Frameworks:** Spring, Javalin
-  - **Development Tools:** Visual Studio Code IDE, Git, Jira
+  - **Development Tools:** Git, Jira
   - **Methodologies:** Agile, Scrum
   - **Environments:** Linux CLI, Visual Studio Code IDE, Eclipse IDE, Relational Databases
 
